@@ -23,18 +23,27 @@ El proyecto ya deberia estar corriendo en localhost:3000
 Vamos a tener solamente cuatro componentes: 
   - `<Nav />` va a contener la searchBar y los dos links a Home y About. 
   
+  
   ![](https://github.com/Slisandro/AppWeather/blob/master/img-screen/nav.jpg)
+  
   
   - `<Cards />` va a contener las cards mientras se vayan agregando.
   
+  
   ![](https://github.com/Slisandro/AppWeather/blob/master/img-screen/cards.jpg)
   
-  - `<About />` contiene una breve descripción del proyecto.
-  ![](https://github.com/Slisandro/AppWeather/blob/master/img-screen/nav.jpg)
+  
   - `<Card />` va a contener información básica sobre la ciudad buscada (nombre, temperatura máxima y mínima y una imagen descriptiva sobre el clima). Este componente va a renderizar la response que recibe desde la API.
+  
+  
   ![](https://github.com/Slisandro/AppWeather/blob/master/img-screen/card.jpg)
+  
+  
   - `<Cuidad />` va a contener información detallada sobre la ciudad.
+  
+  
   ![](https://github.com/Slisandro/AppWeather/blob/master/img-screen/ciudad.jpg)
+  
 
 ### Routing
 
