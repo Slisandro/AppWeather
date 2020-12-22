@@ -21,8 +21,7 @@ El proyecto ya deberia estar corriendo en localhost:3000
 ### React 
 
 Vamos a tener solamente cuatro componentes: 
-  - `<Nav />` va a contener la searchBar y los dos links a Home y About.
-  ![](https://github.com/Slisandro/AppWeather/blob/master/img-screen/nav.jpg)
+  - `<Nav />` va a contener la searchBar y los dos links a Home y About. ![](https://github.com/Slisandro/AppWeather/blob/master/img-screen/nav.jpg)
   - `<Cards />` va a contener las cards mientras se vayan agregando.
   ![](https://github.com/Slisandro/AppWeather/blob/master/img-screen/cards.jpg)
   - `<About />` contiene una breve descripción del proyecto.
