@@ -1,0 +1,12 @@
+#submit {
+    padding: 5px;
+    border-radius: 0 5px 5px 0;
+    background: #007bff;
+    border: 1px solid #007bff;
+}
+
+#text {
+    padding: 5px;
+    border-radius: 5px 0 0 5px;
+    border: 1px solid white;
+}

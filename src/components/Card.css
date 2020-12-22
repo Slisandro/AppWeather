@@ -1,0 +1,35 @@
+.card {
+  margin: 20px;
+  width: 30%;
+}
+
+#cardContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#cardContainer a {
+  margin: 10px 0 0 25px;
+  font-size: 49px;
+}
+
+#cardContainer a h5 {
+  font-size: 25px;
+}
+
+#cardContainer div {
+  display: block;
+  height: 100%;
+  margin: 10px; 
+  margin: 0; 
+  padding: 0;
+  margin: 0;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+#cardContainer div button {
+  height: 60%;
+  width: 100%;
+}
