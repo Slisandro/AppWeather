@@ -1,5 +1,23 @@
 ## Weather App
 
+
+### Inicializar el proyecto
+
+Luego de haber clonado el repositorio, vas a tener que instalar las dependencias del mismo, ejecutando el siguiente comando dentro de la carpeta de este repositorio: 
+
+```
+npm install
+```
+
+Por último debes inicializar el proyecto, con el siguiente comando:
+
+```
+npm start
+```
+
+El proyecto ya deberia estar corriendo en localhost:3000
+
+
 ### React 
 
 Vamos a tener solamente cuatro componentes: 
